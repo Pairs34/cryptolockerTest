@@ -18,3 +18,8 @@ Kullanım Alanları:
 
 Güvenlik sistemlerini test etmek ve EDR (Endpoint Detection and Response) çözümlerinin etkinliğini ölçmek.
 Şifreleme işlemlerinin gerçek bir ortamda nasıl davrandığını analiz etmek.
+
+Test Yapılan Antivirüs ve EDR'lar
+
+Crowdstrike
+Kaspersky Premium
