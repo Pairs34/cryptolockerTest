@@ -32,3 +32,4 @@ Bu program, bir klasörde bulunan tüm dosyaları güçlü bir şifreleme algori
 ## 🧪 **Test Yapılan Antivirüs ve EDR'lar:**
 1. 🛡️ **Crowdstrike**
 2. 🛡️ **Kaspersky Premium**
+3. 🛡️ **Microsoft Defender for Endpoint**
