@@ -34,3 +34,7 @@ Bu program, bir klasörde bulunan tüm dosyaları güçlü bir şifreleme algori
 2. 🛡️ **Kaspersky Premium**  - No Detected
 3. 🛡️ **Microsoft Defender for Endpoint**  - No Detected
 4. 🛡️ **Forti EDR** - No Detected
+5. 🛡️ **Trendmicro** - Detected
+6. 🛡️ **Acronis Cyber Protect** - Detected
+7. 🛡️ **Bitdefender Gravity Zone** - No Detected
+8. 🛡️ **Avast Premium Security** - Detected
