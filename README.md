@@ -41,3 +41,4 @@ Bu program, bir klasörde bulunan tüm dosyaları güçlü bir şifreleme algori
 6. 🛡️ **Acronis Cyber Protect** - Detected
 7. 🛡️ **Bitdefender Gravity Zone** - No Detected
 8. 🛡️ **Avast Premium Security** - Detected
+9. 🛡️ **Comodo Internet Security** - No Detected
