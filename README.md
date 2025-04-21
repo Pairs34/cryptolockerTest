@@ -4,6 +4,9 @@ Bu program, bir klasörde bulunan tüm dosyaları güçlü bir şifreleme algori
 
 ---
 
+![image](https://github.com/user-attachments/assets/ac9b6a28-ba31-495c-9972-4b29d23ae39d)
+
+
 ## 🎯 Programın Temel Amacı
 
 ### 🔒 **Dosya Şifreleme:**
